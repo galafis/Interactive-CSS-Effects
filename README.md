@@ -1,14 +1,16 @@
 # Interactive-CSS-Effects
 
+![Interactive CSS Effects Hero Image](hero_image.png)
+
 ## English
 
 ### 🚀 Overview
-Interactive CSS effects library with hover animations and user engagement features
+Interactive CSS effects library with hover animations and user engagement features.
 
 This project demonstrates professional CSS development skills with modern best practices, clean code architecture, and industry-standard implementations.
 
 ### 🛠️ Technology Stack
-CSS3, interactive effects, hover animations, user engagement
+CSS3, interactive effects, hover animations, user engagement.
 
 ### ⚡ Features
 - Professional code architecture
@@ -73,16 +75,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Português
 
 ### 🚀 Visão Geral
-Interactive CSS effects library with hover animations and user engagement features
+Biblioteca de efeitos CSS interativos com animações de hover e recursos de engajamento do usuário.
 
-Este projeto demonstra habilidades profissionais de desenvolvimento em CSS com práticas modernas, arquitetura de código limpo e implementações padrão da indústria.
+Este projeto demonstra habilidades profissionais de desenvolvimento CSS com as melhores práticas modernas, arquitetura de código limpo e implementações padrão da indústria.
 
 ### 🛠️ Stack Tecnológica
-CSS3, interactive effects, hover animations, user engagement
+CSS3, efeitos interativos, animações de hover, engajamento do usuário.
 
 ### ⚡ Funcionalidades
 - Arquitetura de código profissional
-- Práticas modernas de desenvolvimento
+- Práticas de desenvolvimento modernas
 - Tratamento abrangente de erros
 - Otimizado para performance
 - Base de código bem documentada
@@ -130,3 +132,4 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para d
 ---
 
 ⭐ **Se este projeto foi útil para você, considere dar uma estrela!**
+
